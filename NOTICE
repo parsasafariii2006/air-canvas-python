@@ -1,0 +1,8 @@
+Air Canvas project
+Copyright 2026 Air Canvas project contributors
+
+The bundled hand_landmarker.task model is from Google MediaPipe / Google AI Edge
+and is licensed under the Apache License, Version 2.0. The model card, official
+download location, and SHA-256 checksum are recorded in models/MODEL_INFO.md.
+The model's Apache 2.0 license is also preserved in models/MEDIAPIPE_LICENSE.txt.
+

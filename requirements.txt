@@ -1,0 +1,6 @@
+# Tested together on Windows x64 with Python 3.14.
+# Use only one OpenCV distribution: contrib includes the standard modules.
+mediapipe==1.1.1
+opencv-contrib-python==5.0.0.93
+numpy==2.5.4
+
